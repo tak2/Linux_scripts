@@ -1,5 +1,8 @@
 # Linux_scripts
 Linux scripts to ease the setup and workflow
+
+stackedit.io
+
 # Anaconda on windows cheat sheet
 
 Hi there this is an easy guide to  start anaconda on windows 
